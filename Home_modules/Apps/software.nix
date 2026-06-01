@@ -23,6 +23,7 @@ in{
     darktable
     lutris
     inkscape
+    gamemode
     equibop
     # cough cough piracy stuff
     inputs.sls-steam.packages.${pkgs.system}.wrapped
