@@ -23,8 +23,6 @@
       url = "github:AceSLS/SLSsteam";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    accela = {
-      url = "github:ciscosweater/enter-the-wired";
     };
     eden = {
       url = "github:Daaboulex/eden-nix";
