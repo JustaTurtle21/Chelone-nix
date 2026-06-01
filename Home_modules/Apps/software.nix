@@ -24,6 +24,7 @@ in{
     lutris
     inkscape
     gamemode
+    protonup-qt
     equibop
     # cough cough piracy stuff
     inputs.sls-steam.packages.${pkgs.system}.wrapped
