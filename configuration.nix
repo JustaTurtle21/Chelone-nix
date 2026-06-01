@@ -118,6 +118,7 @@
     packages = [
       "it.mijorus.gearlever"
       "org.nickvision.tubeconverter"
+      "com.stremio.Stremio"
     ];
   };
   # Install firefox.
