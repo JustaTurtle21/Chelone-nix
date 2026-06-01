@@ -25,6 +25,7 @@ in{
     inkscape
     gamemode
     protonup-qt
+    heroic
     equibop
     # cough cough piracy stuff
     inputs.sls-steam.packages.${pkgs.system}.wrapped
