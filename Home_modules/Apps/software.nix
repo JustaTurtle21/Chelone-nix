@@ -27,6 +27,7 @@ in{
     protonup-qt
     heroic
     equibop
+    unstable.motrix-next
     # cough cough piracy stuff
     inputs.sls-steam.packages.${pkgs.system}.wrapped
   ];
