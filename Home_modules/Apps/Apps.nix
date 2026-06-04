@@ -7,5 +7,6 @@
     ./rofi.nix
     ./waybar.nix
     ./mpv.nix
+    ./distrobox.nix
   ];
 }
